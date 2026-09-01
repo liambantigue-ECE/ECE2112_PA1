@@ -57,7 +57,7 @@ ex. first + "." + last
 
 
 # C. Bookend Swap Problem
-The bookend swap problem instructs us to (1) create a function name swap_bookend() with parameter named "items" that accepts a list containing at least 2 elements, (2) unpack the list into 3 variables, and (3) swap the first and last variables while retaining the middle variable.
+The bookend swap problem instructs us to (1) create a function named swap_bookend() with parameter named "items" that accepts a list containing at least 2 elements, (2) unpack the list into 3 variables, and (3) swap the first and last variables while retaining the middle variable.
 
 ## C1. Create function
 Syntax: **def swap_bookend(items):**
