@@ -10,7 +10,7 @@ At the end of this laboratory activity, the student should be able to:
 4. construct simple Python functions that return a specified result.
 
 # A. Word Rotation Problem
-The word rotation problem instructs us to create a function named "rotate_word" with the parameter named "text" that (1) accepts a non-empty string, (2) puts the first letter at the end while keeping the rest at their original position, (3) and preserves the capitalization.
+The word rotation problem instructs us to (1) create a function named "rotate_word" with the parameter named "text" that accepts a non-empty string, (2) puts the first letter at the end while keeping the rest at their original position, (3) and preserves the capitalization.
 
 ## A1. First, create a python function:
 Syntax: **def function_name(parameter):**
