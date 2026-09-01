@@ -36,7 +36,7 @@ Syntax: **parameter[index of starting char:no. of char:no. of increments]**
 4. Lastly, we add the first character at the end by using the operator "+" and parameter[0].
 
 # B. Username Builder Problem
-The username builder problem instructs us to create a function that (1) accepts two string namely first_name and last_name, (2) change the capitalization to lowercase then (3) add them together with a period in the middle.
+The username builder problem instructs us to (1) create a function that accepts two string namely first_name and last_name, (2) change the capitalization to lowercase then (3) add them together with a period in the middle.
 
 ## B1. First, create the function with required parameters
 Syntax: **def make_username(first_name, last_name):**
